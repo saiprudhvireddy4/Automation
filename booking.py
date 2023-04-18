@@ -1,0 +1,13 @@
+txt_name="xpath://*[@id='https://in.bookmyshow.com/hyderabad/movies/ravanasura/ET00321391-0']/div/div[2]/div/img"
+bookticket="xpath://*[@id='page-cta-container']/button/div/span"
+popup='xpath://*[@id="wzrk-confirm"]'
+showtime='xpath://*[@id="venuelist"]/li[3]/div[2]/div[2]/div[2]/a/div[2]'
+accept='xpath://*[@id="btnPopupAccept"]'
+seats='xpath://*[@id="proceed-Qty"]'
+scroll='xpath://*[@id="seatcall"]/div/div[2]/span[2]'
+selected='xpath://*[@id="B_10_0121"]/a'
+pay='id:btmcntbook'
+total='id:prePay'
+accept2='id:btnAduPopupAccept'
+mail='id:txtEmail'
+number='id:txtMobile'
